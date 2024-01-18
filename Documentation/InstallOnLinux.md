@@ -13,12 +13,12 @@ Run this command in your terminal to dowbnload and install Libation, replacing t
 
 - Debian
   ```Console
-  wget -O libation.deb https://github.com/rmcrackan/Libation/releases/download/vX.X.X/Libation.X.X.X-linux-chardonnay.deb &&
+  wget -O libation.deb https://github.com/rmcrackan/Libation/releases/download/vX.X.X/Libation.X.X.X-linux-chardonnay-amd64.deb &&
   sudo apt install ./libation.deb
   ```
 - Redhat and CentOS
   ```Console
-  wget -O libation.rpm https://github.com/rmcrackan/Libation/releases/download/vX.X.X/Libation.X.X.X-linux-chardonnay.rpm &&
+  wget -O libation.rpm https://github.com/rmcrackan/Libation/releases/download/vX.X.X/Libation.X.X.X-linux-chardonnay-amd64.rpm &&
   sudo yum install ./libation.rpm
   ```
 
